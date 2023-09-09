@@ -19,5 +19,5 @@
 ### Resutados
 
 
-![Alt text](./Twitter Cloned Page.png "Optional title")
-![Alt text](./Get User and Pass.png "Optional title")
+![Alt text](./TwitterClonedPage.png "Optional title")
+![Alt text](./UserPass.png "Optional title")
