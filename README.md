@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Twitter
 
 ### Ferramentas
 
@@ -12,10 +12,12 @@
 - Tipo de ataque: ``` Social-Engineering Attacks ```
 - Vetor de ataque: ``` Web Site Attack Vectors ```
 - Método de ataque: ```Credential Harvester Attack Method ```
-- Método de ataque: ``` Site Cloner ```
+- Método de ataque: ``` Web Templates ```
 - Utilizado o IP padrão
-- URL para clone: http://www.facebook.com
+- Template utilizado: ``` Twitter ```
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+
+![Alt text](./Twitter Cloned Page.png "Optional title")
+![Alt text](./Get User and Pass.png "Optional title")
